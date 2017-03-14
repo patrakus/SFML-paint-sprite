@@ -19,7 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="HSL.cpp" />
     <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HSL.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{22be9e7d-ed5f-4087-a84e-850dd4b094b9}</ProjectGuid>
