@@ -1,1 +1,1 @@
-Generatie colored snow
+Generate colored snow
